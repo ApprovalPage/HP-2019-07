@@ -528,7 +528,7 @@ lib.properties = {
 	color: "#999999",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/HealthPoint_Bothell_300x250_atlas_.png?1564191472702", id:"HealthPoint_Bothell_300x250_atlas_"}
+		{src:"images/HealthPoint_Bothell_300x250_atlas_.png", id:"HealthPoint_Bothell_300x250_atlas_"}
 	],
 	preloads: []
 };
