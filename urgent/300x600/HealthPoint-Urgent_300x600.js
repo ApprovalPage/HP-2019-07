@@ -552,7 +552,7 @@ lib.properties = {
 	color: "#999999",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/HealthPoint_Urgent_300x600_atlas_.png?1564193229316", id:"HealthPoint_Urgent_300x600_atlas_"}
+		{src:"images/HealthPoint_Urgent_300x600_atlas_.png", id:"HealthPoint_Urgent_300x600_atlas_"}
 	],
 	preloads: []
 };

@@ -347,7 +347,7 @@ lib.properties = {
 	color: "#999999",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/HealthPoint_Urgent_300x50_atlas_.png?1564197271312", id:"HealthPoint_Urgent_300x50_atlas_"}
+		{src:"images/HealthPoint_Urgent_300x50_atlas_.png", id:"HealthPoint_Urgent_300x50_atlas_"}
 	],
 	preloads: []
 };
